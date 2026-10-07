@@ -1,5 +1,5 @@
-#include<stdio.h>
-  int main(){
-  printf("Rappel:rendre le TP vendredi");
-  return 0;
+public class Rappels{
+  public static void main(String[] args) {
+    System.out.println("Rappel:rendre le TP vendredi");
+  }
 }
